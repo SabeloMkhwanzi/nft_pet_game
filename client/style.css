@@ -1,0 +1,76 @@
+#pet_img{
+    width: 100px;
+}
+
+#game{
+    display: none;
+    padding: 20px 0;
+}
+
+.promo{
+    text-align: center;
+    padding-top: 100px;
+    height: 55vh;
+    background: rgb(72, 18, 99);
+    background: linear-gradient(315deg, rgb(146, 66, 167) 0% rgb(88, 29, 114) 100%);
+}
+
+.banner{
+    background-color: rgb(146, 66, 167);
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-radius: 10px;
+    width: 72%;
+    text-align: center;
+    display: inline-block;
+    color:#fff;
+}
+
+.btn-homepage{
+    background-color: #2D8270;
+    color: #fff;
+    border-radius: 30px;
+    padding: 14px 3vw;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    border-style: none;
+}
+
+.btn-homepage:hover{
+    color: black;
+    background-color: #fff;
+    border-color: #fff;
+    
+}
+
+.feed_button{
+    margin-top: 5px;
+}
+
+.pet_group{
+    width: 35%;
+}
+
+.container-bg{
+    background: #2D8270;
+}
+
+
+.card-footer{
+    background:rgb(72, 18, 99);
+    text-align: center;
+    color: bisque;
+    font-size: 1rem;
+}
+
+
+/*
+
+.bar{ 
+    color: #581D72 ;
+    color: #63B7A8;
+    color: #2D8270;
+    color: #9242A7;
+}
+*/
